@@ -15,6 +15,7 @@ $agama=$_POST['agama'];
 ?>
 <table border=1 bgcolor="Cyan">
 <tr>
+
 <td colspan=2 align="center"><b>Data mahasiswa</b></td>
 </tr>
 <tr>
